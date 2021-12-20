@@ -1,0 +1,3744 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10111001101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns10111001101" font="Open Sans" controllayout="npnxnanbsnfns10111001101" colorscheme="pxabnsnfns10111001101" string_table="pxabnsnfns10111001101" />
+    <layout name="pxabnsnfns10111001101" font="Open Sans" controllayout="pxabnsnfns10111001101" colorscheme="pxabnsnfns10111001101" string_table="pxabnsnfns10111001101" />
+    <layout name="npxnabnsnfns10111001101" font="Open Sans" controllayout="npxnabnsnfns10111001101" colorscheme="pxabnsnfns10111001101" string_table="pxabnsnfns10111001101" />
+    <layout name="npnxnanbnsnfns10111001101" font="Open Sans" controllayout="npnxnanbnsnfns10111001101" colorscheme="pxabnsnfns10111001101" string_table="pxabnsnfns10111001101" />
+    <layout name="pxabnsnfns10111001100" font="Open Sans" controllayout="pxabnsnfns10111001100" colorscheme="pxabnsnfns10111001101" string_table="pxabnsnfns10111001101" />
+    <layout name="pnxanbnsnfns10111001101" font="Open Sans" controllayout="pnxanbnsnfns10111001101" colorscheme="pxabnsnfns10111001101" string_table="pxabnsnfns10111001101" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Accommodation Memo" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Sample Memo" />
+                  <property name="data" value="6o3PBzl12vL" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="customlink" value="true" group="linkleft">
+                <properties>
+                  <property name="title" value="Sample Test Form" />
+                  <property name="data" value="6Wa3qSyGhn8" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Contact DSS" />
+                  <property name="data" value="6da73V4iFJz" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Contact Test Center" />
+                  <property name="data" value="5wRIMp6zX3V" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Contact Faculty Development" />
+                  <property name="data" value="6SvD9u70ZeY" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Contact AV " />
+                  <property name="data" value="68F2rVyZkS7" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="true" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="search" value="false" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111001100">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pxabnsnfns10111001101">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x909090" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pxabnsnfns10111001101">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Open Sans">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.69RGsbaYunK.5bTS8qUY19l" displaytext="HCC’s Accommodation Memo" expand="false" type="slide" />
+        <slidelink slideid="_player.69RGsbaYunK.6TQVi6wubQm" displaytext="What is an Accommodation Memo?" expand="false" type="slide" />
+        <slidelink slideid="_player.69RGsbaYunK.5bbp4LxnCoD" displaytext="Reasonable Accommodations" expand="false" type="slide" />
+        <slidelink slideid="_player.69RGsbaYunK.6UFxDrhi1cG" displaytext="The Accommodation Memo" expand="false" type="slide" />
+        <slidelink slideid="_player.69RGsbaYunK.6fTjYw1bYd3" displaytext="Accommodations" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.69RGsbaYunK.5WltaW486cq" displaytext="Note Taker" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.5bJUXfvBWyp" displaytext="Digital Recorder" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.6EssrTRZltf" displaytext="Copy of Instructor’s Notes" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.5tIu1TR2Owd" displaytext="Closed Captioning of Videos" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.6P4mpvvGH8Q" displaytext="Preferential / Accessible Seating" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.5e6ydAEb1R0" displaytext="Interpreters" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.6V6iWSoOpYy" displaytext="Materials in Alternative Format" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.6YpAtrX0SvQ" displaytext="Computer / Laptop / Tablet" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.6mjp4ZBR239" displaytext="Individualized Proctoring Services" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.6Nb29B1ZSkq" displaytext="Extended Time" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.6e7QTdVxlA5" displaytext="Calculators" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.5biZArrztp0" displaytext="Dictionary" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.6iTA8tgSHo8" displaytext="Use of Computer" expand="false" type="slide" />
+            <slidelink slideid="_player.69RGsbaYunK.6N51BzUnop7" displaytext="No Scantron" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.69RGsbaYunK.6Sup7bv50HK" displaytext="Special Treatment" expand="false" type="slide" />
+        <slidelink slideid="_player.69RGsbaYunK.66H1P7TJQpy" displaytext="Online Learning Environment" expand="false" type="slide" />
+        <slidelink slideid="_player.69RGsbaYunK.5lx85hh4DT5" displaytext="Contact Information" expand="false" type="slide" />
+      </links>
+    </outline>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="69RGsbaYunK.5bTS8qUY19l" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If you’re viewing this presentation, you’ve probably just received an accommodation memo from one of your students. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You may be asking yourself, what does this mean? What are my roles and responsibilities in supporting this student’s accommodation? Who can I contact with my questions? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="This presentation will answer all of these questions and more. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If you’d like to jump straight to information about a specific accommodation, click on a title in the menu on the left. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If you’d like to know more about the entire accommodation memo, click NEXT at the bottom right of the screen to continue. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6TQVi6wubQm" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" FirstLineMargin="36" Justification="Left" CustomTabStops="" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Period" Color="dk1,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The student who gives you this memo has had a disability documented through HCC’s Disability Support Services and Student Support Services.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" FirstLineMargin="36" Justification="Left" CustomTabStops="" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Period" Color="dk1,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The memo is a confidential letter and documents special requirements that must be provided to the student.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" FirstLineMargin="36" Justification="Left" CustomTabStops="" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Period" Color="dk1,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You are required by the Americans with Disabilities Act (ADA) to provide the listed accommodations and you play a key role in supporting these accommodations and helping the student succeed.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" FirstLineMargin="36" Justification="Left" CustomTabStops="" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Period" Color="dk1,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Click NEXT to continue." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.5bbp4LxnCoD" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Reasonable accommodations do not make a fundamental change in the standards of a program or course. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="They do not alter course objectives for the student. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="They do not impose an undue financial or administrative burden on the institution.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="And they do not affect the essential standards applied to all students. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="“Accommodations simply provide an alternative way to accomplish course requirements by eliminating or reducing disability-related barriers. They provide a level playing field, not an unfair advantage.”&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click NEXT to continue." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6UFxDrhi1cG" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="On the right of this screen, you can see a sample accommodation memo from Disability Support Services here at HCC. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You can click on the form to zoom in. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The accommodation memo contains the student’s name, the counselor’s name and phone extension, and the required accommodations.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="In the additional accommodations section, you may see additional comments or instructions about the accommodations the student requires. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If you have any questions or concerns regarding the accommodations on a students’ accommodation memo, contact Disability Support Services at 443-518-1300. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click NEXT to continue." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6fTjYw1bYd3" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Although there are many different accommodations students with disabilities may require, there are two main types of accommodations: classroom accommodations and testing accommodations. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the each of the accommodations to learn more.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="When you’re finished, click the Continue button at the bottom right of the screen. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.5bJUXfvBWyp" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="This accommodation requires that a student be allowed to use a digital recorder or cell phone to record the class lectures."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="In order to accommodate students who need digital recorders, you may need to adjust your cell phone policy to allow cell phone use for this purpose.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You may offer to allow students to place their recording devices close to the instructor station to improve audio quality. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You may also consider recording your lectures yourself using a lapel microphone and making these recordings available to all students for review. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Contact AV Design Services at AVRequests@howardcc.edu to borrow a microphone. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Contact Instructional Media at IMFacultyLab@howardcc.edu if you would like help recording or more information.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6EssrTRZltf" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does this mean?"&gt;
+        &lt;Style FontIsBold="True" BackgroundColor="#FFFF00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="This accommodation requires that a student receive a copy of the instructor’s notes or class materials. This includes any PowerPoint or organizer you may be using to facilitate your class."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" BackgroundColor="#FFFF00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Consider making your PowerPoint presentations available to the student prior to class.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You may also provide a printed copy of your slides and slide notes (if applicable) during the class to the student. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" BackgroundColor="#FFFF00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Talk with the student to plan the best way for them to receive written notes.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Provide a printed copy of your presentation to students to allow them to use it as a graphic organizer to take notes.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Post your presentations on Canvas and make them available for students to download prior to class so that they can print them or have them up during your lecture.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6P4mpvvGH8Q" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Preferential seating allows a student to sit in a certain spot in the classroom. This could be a function of the student’s auditory, visual, or behavioral needs. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If a student needs special accessible seating such as a wheelchair table, desk or lab station, this accommodation requires that such seating be provided for them.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Your role is to arrange a designated area to be reserved for the student and ensure that the proper seating accommodations are available to the student for EVERY class.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Discuss with the student the seating position that would best support their learning. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If the proper accessible seating is not available in the classroom, contact Disability Support Services for assistance at 443-518-1300. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You may also contact classroomrequests@howardcc.edu to arrange proper access if accessible furniture is not in the room. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.5tIu1TR2Owd" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="This accommodation requires that all of your auditory learning experiences have closed captioning to aid students. This includes YouTube videos, podcasts, audio clips and instructor-created media.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Please note that transcripts do not completely fulfill the requirements of this accommodation. Transcripts should be made available but all media should also contain closed captions."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Your role is to ensure that any audio or video includes closed captioning prior to assigning it and to ensure that the captions are at least 90% accurate. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Look for videos that already contain closed captioning with at least 90% accuracy.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Provide transcripts when available as well. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If you want to use media that is not captioned, contact Instructional Media at IMFacultyLab@howardcc.edu for support. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Please allow at least two business days to caption your media. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Remember that captioned media assists ALL students, not just students with auditory disabilities.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.5e6ydAEb1R0" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="This accommodation requires that a student have an interpreter present in the classroom. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The interpreter will communicate with the student and translate what is said during class. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The interpreter will also communicate with the instructor and other students on behalf of the student. "&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Instructors will be notified when an interpreter is assigned to a class. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Your role is to communicate with the student and the interpreter. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="When addressing the student, speak directly with the student, not the interpreter.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Include the student in all classroom discussions and activities.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Ask the interpreter if there are any resources or course materials that would assist them in their role in your classroom.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6V6iWSoOpYy" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="This accommodation requires that a student receive and be able to use materials in an alternative format such as voice-activated, large print, braille or screen reader compatible materials."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Your role is to ensure that the student has materials in a format that is accessible to them and to contact DSS if a student cannot acquire course materials in an accessible format. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Contact DSS to provide them with course materials for conversion. DSS will modify the course materials for students as needed. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Students should call 443-518-1300 or stop by Assistive Support Services in RCF 302.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6YpAtrX0SvQ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="This accommodation requires that a student be allowed to use a computer, laptop or tablet in the classroom. Students with this accommodation may also require a second monitor or computer."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Your role is to allow the student to use a computer, laptop or tablet in class and during learning experiences and to ensure that the student has access to a computer, laptop or tablet with dual monitors or a computer if needed.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Allow the student to use their computer or laptop during class and any learning experiences that you may facilitate. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If the student does not have their own laptop or tablet, direct them to contact the Help Desk at 443-518-4444 for a daily loan laptop. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If the student needs a second monitor or second computer and the room does not already have it, contact Disability Support Services at 443-518-1300.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.5WltaW486cq" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If a student requires a note taker, that means that they must be allowed to have another person take notes for them during class. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="There are several ways you can address this accommodation so it’s important to talk to the student to find out which method they would prefer. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="In order to accommodate this student, you may make an announcement to the class to ask for volunteers to share their notes. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The student may also ask a classmate to share their notes, in which case you should confirm that it is OK for them to do so.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Disability Support Services has carbonless paper available to accommodate students who require note takers, however, you could also allow students to take a picture of their notes and share them electronically. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Some students may also require access to a computer to type their notes in addition to the services of the note taker. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Students who volunteer to be note takers are eligible for a gift certificate at the HCC bookstore. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Contact Disability Support Services for more information about the gift certificates. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Make a general announcement in class or on Canvas to recruit a note taker without identifying the student with the accommodation. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Create a habit of having ALL students share their notes at certain points in the class. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Collect all of your students notes as an assignment and ask permission from students with strong note-taking skills to share their notes with a student who needs the accommodation without using their name. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6mjp4ZBR239" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Some students may need individual assistance in order to take exams. HCC proctors are provided to students who will need to take their tests at the HCC Test Center.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The Test Center provides proctoring services to students with disabilities. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Disability Support Services will arrange for alternate formats of your test, provide scribes, or assistive technology and separate rooms with a proctor as necessary to accommodate students."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Instructors must send course tests to the Test Center two days before the test. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="As an instructor, you are not responsible for securing proctors for students.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="However, it is helpful to remind the student to request a proctor as soon you have determined the date for a quiz or exam.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="When possible, provide a syllabus for students with the planned schedule of tests so that they may schedule a proctor. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The student must request assistance from Disability Support Services for accommodations specific to the exam. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Talk to the student and ask them to remind you a week before an exam if they need you to send a copy to the Test Center. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Remember that this accommodation applies to ALL assessments including exams and pop quizzes so please plan accordingly. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If it is absolutely necessary to administer pop quizzes in your class, please contact Disability Support Services for further information on how to accommodate this. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6Nb29B1ZSkq" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="14">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="This accommodation requires that a student have double the assigned time on any exam, test or quiz they take in class or at the Test Center."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Your role is to give the student double time to take the quiz, test or exam in class. This means that if you provide an hour for your class to take an exam, the student with this accomodation must be given two hours to complete it. Alternatively you may allow the student to take the quiz, test or exam in the Test Center. In that case, you must send a copy of the test to the Test Center two days in advance and mark the amount of time the student should receive on the Test Information Form.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Consider giving the quiz, test or exam at the end of class so the student can stay behind after class to receive their extended time as needed.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="On the Test Information Form in the Time Limit field, note the amount of time in minutes that the student should receive on the test. This amount should be double the time provided to other students in the class.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6e7QTdVxlA5" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="15">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="This accommodation requires that a student be allowed to use a specified calculator at the Test Center when taking an exam. "&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Your role is to send a copy of the test to the Test Center two days in advance and to note on the Test Information Form the type of calculator the student should use. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="On the Test Information Form, in the Testing Materials and Privileges field, check the Test Center Calculator box AND check the box of the type of calculator the student should use, for example, a 4 function, 30x or TI-83 or TI-84. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.5biZArrztp0" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="16">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="This accommodation requires that a student be allowed to use a dictionary at the Test Center when taking an exam. "&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Your role is to send a copy of the test to the Test Center two days in advance and to note on the Test Information Form that the student may use a dictionary. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="On the Test Information Form, in the Testing Materials and Privileges field, check the Dictionary box. The dictionary will be provided by the Test Center and will be in English only. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6iTA8tgSHo8" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="17">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="This accommodation allows a student to use a computer at the Test Center when taking an exam. The student may also be allowed to use additional computer-based tools such as spell check or grammar check during their test."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Your role is to send a copy of the test to the Test Center two days in advance and to note on the Test Information Form that the student should use a computer and any additional computer-based tools as necessary. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="On the Test Information Form, in the Answer Format field, check any applicable computer-based answer formats. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="If your preferred format is not listed in this area, check Other in the Testing Materials and Privileges field and specify the preferred answer format there as well as if the student should be allowed to use spell check or grammar check. "&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6N51BzUnop7" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="18">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="What does this mean?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="This accommodation requires that a student be allowed to answer test questions directly on the test paper itself or on paper provided by the instructor."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="What is my role?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" and " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" buttons"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="What is my role?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Your role is to send a copy of the test to the Test Center two days in advance and to note the appropriate Answer Format on the Test Information Form. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Click on the " /&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" button"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to learn more or click " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="How can I do it?"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="On the Test Information Form, in the Answer Format field, check any applicable computer-based answer formats. "&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="C"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="lick " /&gt;
+      &lt;Span Text="Back "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to return to the list of accommodations."&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6Sup7bv50HK" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="19">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Students may confront you about their perception that a certain student is getting “special treatment” if they notice, for example, that one student gets more time on a quiz or is allowed to use a computer or cell phone in class when others are prohibited from doing so. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="In order to protect the student with disabilities’ privacy, you MUST NOT tell the confrontational student that the student is getting extra privileges because they have a specific disability. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Instead, you should tell the student that some of her classmates may have legitimate needs that have to be accommodated in order to make sure they have equal opportunities to succeed in college. These “accommodations don’t make things easier, just possible; in the same way eyeglasses do not improve the strength of the eyes, they just make it possible for the individual to see.” " /&gt;
+      &lt;Span Text="(Samuels, M. 1992 – Asking the Right Questions. The Learning Center, Calgary)"&gt;
+        &lt;Style FontSize="9" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If you have any issues with confrontational students, please contact Disability Support Services at 443-518-1300. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click NEXT to continue." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.66H1P7TJQpy" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="20">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What if you teach online? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Instructors teaching online are required to follow the same behaviors as instructors teaching face-to-face classes in regards to accommodations.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Students taking online classes may provide a memo via email or give it to the instructor in person. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="For additional assistance with accommodations for online students, contact DSS at 443-518-1300 or e-Learning at elearning@howardcc.edu &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click NEXT to continue." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.5lx85hh4DT5" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="21">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Your dedication and willingness to support students who need accommodations helps make this campus a more inclusive and welcoming place for all students. Thank You!&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If you suspect that a student in your class could benefit from an accommodation, contact Disability Support Services. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Please see the contact information below to contact the appropriate office for additional support with accommodation memos.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click NEXT to exit this course." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.5kyKdWDFV8K" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="22">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on this image of the Accommodation Memo to zoom in, and get a closer look at the memo itself." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.69vDwus4uUw" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="22">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on this image of the Accommodation Memo to zoom in, and get a closer look at the memo itself." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.5dnevpyrbmG" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="23">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Disability Support Services can provide additional information and support for you and your students who have documented disabilities." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6TqP1270M4i" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="24">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Contact the Test Center to send exams for your students to take or find out more information about testing services." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.5x9kJ7063IE" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="25">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Contact AV to reserve instructional equipment or to find out more about AV design services." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="69RGsbaYunK.6qStWD3hg30" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="26">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Instructional designers and media specialists in the Center for Teaching Excellence can assist faculty with lesson design, alternative teaching and technology strategies and accomodation resources such as captioning for videos." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>
